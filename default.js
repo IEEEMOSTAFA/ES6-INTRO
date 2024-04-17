@@ -13,9 +13,11 @@ function fullName(first, last =''){
       return full;
 
 }
-function person(human = {}){
+let  name = fullName('al');
+console.log(name);
+// function person(human = {}){
 
-}
-function person(human = {}){
+// }
+// function person(human = {}){
     
-}
+// }
